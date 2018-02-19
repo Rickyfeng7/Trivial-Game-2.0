@@ -31,7 +31,7 @@
 	function clock(){
 		time = setInterval(decrement,1000);
 	}
-		var timer = 100;
+		var timer = 30;
 	function decrement(){
 
 		console.log("timer",timer);
